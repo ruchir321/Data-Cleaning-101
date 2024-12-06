@@ -1,4 +1,4 @@
-# Housing Regression
+# Data Cleaning 101
 
 In this repo, I have used the [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) to explore data preparation techniques.
 
